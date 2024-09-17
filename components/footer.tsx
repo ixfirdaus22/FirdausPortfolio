@@ -6,7 +6,9 @@ const Footer = () => {
       <div className="text-neutral-500">
         Built by Firdaus Mazumdar | ©2024 Next.js Project. All Rights Reserved
         <br />
-        <span className="italic text-neutral-400">~ It's not a bug, it's a feature!</span>
+        <span className="italic text-neutral-400">
+          ~ It&apos;s not a bug, it&apos;s a feature!
+        </span>
       </div>
       <ThemeToggle />
     </div>
