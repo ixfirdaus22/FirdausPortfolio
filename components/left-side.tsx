@@ -1,5 +1,5 @@
 import { siteConfig } from "@/config/site-config";
-import { Linkedin, Mail, MapPin, Paperclip } from "lucide-react";
+import { Mail, MapPin, Paperclip } from "lucide-react";
 import Image from "next/image";
 import Footer from "./footer";
 
