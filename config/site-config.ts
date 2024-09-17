@@ -207,7 +207,7 @@ const GridItems: GridItemInterface[] = [
     type: "equipment",
     title: "Hey Everyone!",
     image: "/FullSizeRender.jpg",
-    description: "I'm Firdaus Mazumdar, a Computer Science Engineering student specializing in AI and Machine Learning. Set to graduate in 2025, I'm currently gaining hands-on experience as a Machine Learning intern. My passion lies in software development and exploring cutting-edge technologies. Proficient in Java and Python, I've also honed my skills in machine learning and data analysis. Originally from Assam, I've embraced the tech hub of Navi Mumbai for my studies. As I approach my final year, I'm actively seeking new opportunities, expanding my network, and pushing the boundaries of my knowledge in this ever-evolving field.",
+    description: "I'm Firdaus Mazumdar, a Computer Science Engineering student specializing in AI and ML. Set to graduate in 2025, I'm currently gaining hands-on experience as a Machine Learning intern. My passion lies in software development and exploring cutting-edge technologies. Proficient in Java and Python, I've also honed my skills in AWS Cloud. Originally from Assam, I've embraced the tech hub of Navi Mumbai for my studies. As I approach my final year, I'm actively seeking new opportunities, expanding my network, and pushing the boundaries of my knowledge in this ever-evolving field.",
   },
   {
     layout: "2x1",
