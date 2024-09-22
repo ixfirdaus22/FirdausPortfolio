@@ -154,10 +154,10 @@ const GridItems: GridItemInterface[] = [
   {
     layout: "2x1",
     type: "project",
-    title: "Internship1",
+    title: "Feynn Labs Internship 2024",
     icon: "github",
     color: "#070707",
-    //buttonLink: "https://github.com/batuhanbilginn/makr-ai",
+    buttonLink: "https://github.com/ixfirdaus22/FeynnLabsInternship2024/tree/main",
     //stars: 73,
   },
   {
